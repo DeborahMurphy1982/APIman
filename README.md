@@ -1,4 +1,4 @@
-Baking Fairy Cakes
+<title>Baking Fairy Cakes</title>
 
 Ingrediants
 125g butter
